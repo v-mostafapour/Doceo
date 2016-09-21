@@ -13,7 +13,7 @@ import model.Triple;
 public class PipelineHandler {
 
 	public static void main(String[] args) {
-
+		// this is the comment just to check the github repository
 		// 0. gets all the Triple list from graph
 		ArrayList<Triple> TRIPLE_LIST = new KbHandler().getTriples();
 
